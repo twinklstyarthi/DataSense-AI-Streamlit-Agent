@@ -1,0 +1,13 @@
+# Secrets / Environment variables
+.env
+
+# Generated data from app sessions
+chat_history/
+
+# Virtual environment folders
+denv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
