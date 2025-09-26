@@ -7,7 +7,7 @@ langchain-core==0.2.5
 langchain-google-genai==1.0.6
 python-dotenv==1.0.1
 plotly==5.22.0
-ydata-profiling==4.7.0
+ydata-profiling
 asteval==0.9.31
 kaleido==0.2.1
 openpyxl==3.1.2
